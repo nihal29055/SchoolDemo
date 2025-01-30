@@ -27,7 +27,7 @@ Ensure you have **Node.js** and **npm/yarn** installed.
 1. Clone the repository:
    ```sh
    git clone https://github.com/nihal29055/schoolDemo.git
-   cd school-college-website
+   cd schoolDemo
    ```
 2. Install dependencies:
    ```sh
