@@ -8,7 +8,7 @@ export default function Home() {
       {/* Hero Section */}
       <div className="relative h-[600px]">
         <img
-          src="https://images.unsplash.com/photo-1562774053-701939374585?auto=format&fit=crop&q=80"
+          src="https://phoscreative.com/wp-content/uploads/2017/10/How-to-Build-a-Powerful-College-Website-1-1-2.jpg"
           alt="College Campus"
           className="w-full h-full object-cover"
         />
@@ -96,7 +96,7 @@ const news = [
     title: "Annual Science Fair 2024",
     date: "March 15, 2024",
     description: "Join us for our annual science fair showcasing innovative projects from our talented students.",
-    image: "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&q=80"
+    image: "https://plus.unsplash.com/premium_photo-1661430659143-ffbb5ce2b6a7?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlbWlzdHJ5fGVufDB8fDB8fHww"
   },
   {
     title: "New Research Center Opening",
